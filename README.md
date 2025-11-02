@@ -9,7 +9,7 @@ My aim is to create functional bridge scripts for both (1) live ECG-to-MIDI conv
 ## Requirements
 ### Hardware
 - PC/Laptop
-- ECG device (if undertaking live ECG-to-MIDI) with biosignal acquisition kit (e.g., BITalino)
+- ECG device (if undertaking *live* ECG-to-MIDI) with biosignal acquisition kit (e.g., BITalino)
 
 ### Software
 - VScode (with Python and Jupyter extensions)
