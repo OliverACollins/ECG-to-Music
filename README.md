@@ -37,7 +37,7 @@ My aim is to create functional bridge scripts for both (1) live ECG-to-MIDI conv
 5. Once the output is in Ableton Live, notes will be played/parameters will be modulated according to BPM change threshold (currently: +/- 2 BPM)
 
 ### Roadmap
-- [x] Create pre-recorded bridge script that plays notes for each BPM change threshold
+- [x] Create pre-recorded bridge script that plays notes for each BPM change threshold, working for changes BOTH in increases and decreases of BPM
 - [ ] Create pre-recorded bridge script that modulates a quality (OPERATIONALISE!!!) of a note (e.g., default note could be C4, where an increase or decrease in heart rate leads to more or less gain/distortion of the tone, OR it could be that a pre-recorded piece of music is played)
 
 ## Usage: Live ECG-to-MIDI
