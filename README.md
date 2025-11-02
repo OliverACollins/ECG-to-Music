@@ -45,10 +45,11 @@ My aim is to create functional bridge scripts for both (1) live ECG-to-MIDI conv
 (TBC)
 
 ## Usage: Pre-recorded ECG-to-MIDI
+- Two versions of the pre-recorded bridge: (1) a "play" script, which converts ECG R peaks into notes and (2) a "modulation" script, which manipulates the timbre/quality of live music using the pre-recorded ECG signal.
 
 (TBC)
 
-Ideas for both live and pre-recorded ECG-to-MIDI conversion
+## Ideas for both live and pre-recorded ECG-to-MIDI conversion
 - Change in BPM = change in pitch of note
 - Change in BPM = more or less gain/distiortion
 - Make a particularly relaxing version for biofeedback meditation session(?) - find an appropriate instrument on Ableton (e.g., ambient synth, marimba, acoustic instrument)
