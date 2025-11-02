@@ -1,5 +1,5 @@
 # ECG-to-MIDI
-The equivalent of EEG-to-MIDI, but for ECG.
+**The equivalent of EEG-to-MIDI, but for ECG.**
 
 My attempt at creating an ECG-MIDI interface, whereby a participant's EEG signals would create/modulate music in Ableton Live.
 
@@ -38,7 +38,7 @@ My aim is to create functional bridge scripts for both (1) live ECG-to-MIDI conv
 
 ### Roadmap
 - [x] Create pre-recorded bridge script that plays notes for each BPM change threshold
-- [ ] Create pre-recorded bridge script that modulates a quality (OPERATIONALISE!!!) of a note (e.g., default note could be C4, where an increase or decrease in heart rate leads to more or less gain/distortion of the tone)
+- [ ] Create pre-recorded bridge script that modulates a quality (OPERATIONALISE!!!) of a note (e.g., default note could be C4, where an increase or decrease in heart rate leads to more or less gain/distortion of the tone, OR it could be that a pre-recorded piece of music is played)
 
 ## Usage: Live ECG-to-MIDI
 
@@ -53,3 +53,7 @@ Ideas for both live and pre-recorded ECG-to-MIDI conversion
 - Change in BPM = more or less gain/distiortion
 - Make a particularly relaxing version for biofeedback meditation session(?) - find an appropriate instrument on Ableton (e.g., ambient synth, marimba, acoustic instrument)
 - Maybe make a paradigm focusing on HRV? Would need to be highly-sensitive to intervals between heart beats. Although, cannot really see any useful psychological applications of this idea
+
+## Troubleshooting
+- Create a new loopMIDI port each time the PC/laptop is restarted
+- In Ableton, in the Preferences page, under the relevant loopMIDI input port, ensure that the "Track" and "Remote" boxes are ticked
