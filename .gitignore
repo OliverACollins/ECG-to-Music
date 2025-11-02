@@ -1,0 +1,18 @@
+ecg Project/Backup/ecg \[2025-11-02 215602\].als
+ecg Project/Backup/ecg \[2025-11-02 215659\].als
+ecg Project/Backup/ecg \[2025-11-02 215853\].als
+/ecg Project
+bridge_live_4.py
+bridge_live_3.py
+bridge_live.py
+realistic_ecg_plot.png
+ecg_increasing_bpm.py
+neurokit_simulate.py
+neurokit_synthetic_ecg.py
+synthetic_ecg.py
+bpm_decrease_ecg.csv
+ecg_increasing_bpm.csv
+realistic_ecg.csv
+simulated_ecg.csv
+synthetic_ecg.csv
+ecg_15s_60bpm.csv
