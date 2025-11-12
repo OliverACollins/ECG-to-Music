@@ -3,7 +3,7 @@
 
 My attempt at creating an ECG-MIDI interface, whereby a participant's EEG signals would create/modulate music in Ableton Live.
 
-My aim is to create functional bridge scripts for both (1) live ECG-to-MIDI conversion and (2) ECG-to-MIDI conversion for pre-recorded EEG data. The goal would be to test these interfaces within a biofeedback paradigm.
+My aim is to create functional bridge scripts for both (1) live ECG-to-MIDI conversion and (2) ECG-to-MIDI conversion for pre-recorded EEG data. The goal would be to test these interfaces within a biofeedback meditation paradigm.
 
 
 ## Requirements
