@@ -28,7 +28,7 @@ My aim is to create functional bridge scripts for both (1) live ECG-MIDI and ECG
 - [ ] Play script: Create a live bridge script that plays MIDI notes in accordance with each BPM change threshold
 - [ ] Modulation script: Create a live bridge script that modulates a quality of a MIDI/guitar note (e.g., default note could be C4/participant could play notes themselves, where an increase or decrease in heart rate leads to more or less distortion/chorus of the tone)
 
-### Project status
+### -- Project status --
 - Play script: Live MIDI works, with each R peak accurately detected, but BPM is calculated inaccurately in VScode terminal. Also, pitch does not currently change with BPM, most likely due to inaccuracies in BPM calculation.
 - Modulation script: Coded, needs testing.
 
@@ -40,8 +40,12 @@ My aim is to create functional bridge scripts for both (1) live ECG-MIDI and ECG
 5. Once the output is in Ableton Live, notes will be played/parameters will be modulated according to BPM change threshold (currently: +/- 2 BPM)
 
 ### Roadmap
-- [x] Create a pre-recorded bridge script that plays notes for each BPM change threshold, working for changes BOTH for increases and decreases of BPM
-- [ ] Create a pre-recorded bridge script that modulates a quality (volume, distortion, pitch) of a note (e.g., default note could be C4, where an increase or decrease in heart rate leads to more or less gain/distortion of the tone, OR it could be that a pre-recorded piece of music is played, OR the participant could just play any live music with the pre-recorded ECG modulating the timbre)
+- [ ] Play script: Create a pre-recorded bridge script that plays notes for each BPM change threshold, registering both increases and decreases of BPM
+- [ ] Modulation script: Create a pre-recorded bridge script that modulates a quality of a note (e.g., default note could be C4, where an increase or decrease in heart rate leads to more or less gain/distortion of the tone, OR it could be that a pre-recorded piece of music is played, OR the participant could just play any live music with the pre-recorded ECG modulating the timbre)
+
+### -- Project status --
+- Play script: TBC
+- Modulation script: TBC
 
 ## Usage: Live ECG-to-MIDI
 
