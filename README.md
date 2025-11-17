@@ -1,5 +1,5 @@
-# ECG-to-MIDI
-**The equivalent of EEG-to-music, but for ECG.**
+# ECG-to-Music
+**The equivalent of EEG-to-Music, but for ECG.**
 
 My attempt at creating an ECG-music interface, whereby a participant's EEG signals would create/modulate music in Ableton Live.
 
